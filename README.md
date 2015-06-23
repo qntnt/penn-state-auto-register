@@ -1,6 +1,6 @@
 # penn-state-auto-register
 
-## Installation
+## Installation (works best in Ubuntu/Linux Mint)
 #### Linux
 ```
 > git clone https://github.com/quentunahelper/penn-state-auto-register.git
