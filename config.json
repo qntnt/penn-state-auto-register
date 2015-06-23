@@ -2,7 +2,7 @@
     "username": "xxx1234",
     "password": "password",
     "sections": [
-        {"sid": "11111"}
+        {"sid": "11111", "description": "Computer Science 451"}
     ],
     "output": ""
 }
