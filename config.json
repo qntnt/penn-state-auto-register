@@ -2,7 +2,15 @@
     "username": "xxx1234",
     "password": "password",
     "sections": [
-        {"sid": "11111"}
+        {"sid": "479020", "description": "CMPSC465"},
+        {"sid": "479026", "description": "CMPSC465"},
+        {"sid": "479014", "description": "CMPSC464"},
+        {"sid": "479011", "description": "CMPSC461"},
+        {"sid": "479008", "description": "CMPSC458"},
+        {"sid": "479005", "description": "CMPSC455"},
+        {"sid": "479002", "description": "CMPSC451"},
+        {"sid": "478999", "description": "CMPSC451"},
+        {"sid": "502606", "description": "STAT319"}
     ],
     "output": ""
 }
