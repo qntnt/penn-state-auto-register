@@ -1,0 +1,5 @@
+#!/bin/bash
+
+DEBUG=horseman node dev/horse-test/index
+
+read

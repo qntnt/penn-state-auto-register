@@ -1,0 +1,19 @@
+#!/bin/bash
+
+echo "Beginning auto-register installation..."
+sudo apt-get install jq
+
+echo "Output folder: (~/auto-register) "
+
+read ofolder
+
+if ["$ofolder" -eq ""]
+then
+    mkdir ~/auto-register
+    jq -c 'def(output):~/auto-register' config.json > config.json
+else
+    mkdir "$ofolder"
+    jq -c 'def("output"): $ofolder' config.json > config.json
+fi
+
+read
