@@ -17,3 +17,8 @@ Edit the settings in `config.json`.
 
 After adding section numbers and descriptions to `config.json`, you can run the tool by running the `run` bash script.
 
+## Dependencies
+
+* NodeJS
+* PhantomJS
+* jq
